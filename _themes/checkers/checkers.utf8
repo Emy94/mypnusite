@@ -1,0 +1,34 @@
+[info]
+codepage=65001
+readonly=true
+version=4.00
+format=2.00
+title=Checkers
+refcount=2
+
+[titles]
+1040=Dama
+1053=Rutor
+1032=Ντάμα
+1036=Damier
+1031=Schachbrett
+1044=Ruter
+2052=评判型
+1028=方格花紋
+1042=체크 무늬
+1038=Pepita
+1049=Шашечки
+1046=Quadriculado
+1041=チェッカー
+2070=Xadrez
+1054=กระดานดำ
+1025=لوح الطباشير
+3082=Tablero de damas
+1035=Ruudut
+1030=Terner
+1043=Dambord
+1029=Kostky
+1045=Szachownice
+1037=לוח וגיר
+1055=Kareler
+
